@@ -1,0 +1,8 @@
+*.aux *.bbl *.blg *.log *.out *.toc *.synctex.gz
+__pycache__/
+*.pyc
+/lake/
+build/
+.lean/
+figures/*.png
+.DS_Store
